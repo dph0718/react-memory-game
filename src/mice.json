@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "mouse01",
+        "image": "./mice/mouse01.png"
+    },
+    {
+        "id": 2,
+        "name": "mouse02",
+        "image": "./mice/mouse02.png"
+    },
+    {
+        "id": 3,
+        "name": "mouse03",
+        "image": "./mice/mouse03.png"
+    },
+    {
+        "id": 4,
+        "name": "mouse04",
+        "image": "./mice/mouse04.png"
+    },
+    {
+        "id": 5,
+        "name": "mouse05",
+        "image": "./mice/mouse05.png"
+    },
+    {
+        "id": 6,
+        "name": "mouse06",
+        "image": "./mice/mouse06.png"
+    },
+    {
+        "id": 7,
+        "name": "mouse07",
+        "image": "./mice/mouse07.png"
+    },
+    {
+        "id": 8,
+        "name": "mouse08",
+        "image": "./mice/mouse08.png"
+    },
+    {
+        "id": 9,
+        "name": "mouse09",
+        "image": "./mice/mouse09.png"
+    },
+    {
+        "id": 10,
+        "name": "mouse10",
+        "image": "./mice/mouse10.png"
+    },
+    {
+        "id": 11,
+        "name": "mouse11",
+        "image": "./mice/mouse11.png"
+    },
+    {
+        "id": 12,
+        "name": "mouse12",
+        "image": "./mice/mouse12.png"
+    }
+]
